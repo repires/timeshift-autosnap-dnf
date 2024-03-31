@@ -19,5 +19,5 @@ sudo bash install.sh
 ```
 Or simply run the following on the terminal:
 ```
-curl -sSL https://raw.githubusercontent.com/repires/timeshift-autosnap-dnf/master/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/repires/timeshift-autosnap-dnf/master/install.sh | sudo bash
 ```
