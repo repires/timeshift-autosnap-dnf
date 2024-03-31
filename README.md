@@ -10,3 +10,7 @@ Copy timeshift.py to this directory.
 Copy timeshift.conf to /etc/dnf/plugins/ directory.
 
 We can change plugin behavior by modifying timeshift.conf.
+
+Alternatively you can install using the install.sh script:
+
+sudo bash install.sh
